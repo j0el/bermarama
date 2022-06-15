@@ -13,6 +13,9 @@ flickr_username: ""
 discus_shortname: ""
 share: true
 
+plugins:
+  - jekyll-paginate
+
 # Owner/author information
 owner:
   name:   photorama
