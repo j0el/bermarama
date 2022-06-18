@@ -5,7 +5,7 @@ p h o t o r a m a
 
 ----------
 
----> [DEMO](https://sunbliss.github.io/photorama/ "DEMO")  <---
+---> [DEMO](http://127.0.0.1:4000/photorama/ "DEMO")  <---
 
 ----------
 
@@ -142,7 +142,7 @@ All the credits and the helpers can be found at **ABOUT** page.
 
 ----------
 
-Read <a href="https://sunbliss.github.io/photorama/journal/images-size-for-better-performance/">**this**</a> post if you want to ensure your website always loads fast.
+Read <a href="http://127.0.0.1:4000/photorama/journal/images-size-for-better-performance/">**this**</a> post if you want to ensure your website always loads fast.
 
 
 ----------

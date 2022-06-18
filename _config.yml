@@ -1,8 +1,8 @@
 # Site settings
-title: PHOTORAMA
+title: BERMORAMA
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
+description: "Joel's Journal"
+url: "http:localhost:4000"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -18,7 +18,7 @@ plugins:
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Joel Berman
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -36,9 +36,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "http://127.0.0.1:4000/photorama/gallery/"  
+  - JOURNAL: "http://127.0.0.1:4000/photorama/journal/"
+  - ABOUT: "http://127.0.0.1:4000/photorama/about/"
 
 # All translation keys
 translations:
